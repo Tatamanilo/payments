@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iqast/!svn/ver/1443/uqast-test/globals/modules/payment/tpl
+END
+_payment_viewIncomingMoney.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iqast/!svn/ver/1420/uqast-test/globals/modules/payment/tpl/_payment_viewIncomingMoney.tpl
+END
+_chargeOperationAuthnet_confirmPaymentSystemOperation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/iqast/!svn/ver/1364/uqast-test/globals/modules/payment/tpl/_chargeOperationAuthnet_confirmPaymentSystemOperation.tpl
+END
+_purchaseOperationLocal_confirmOperation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/iqast/!svn/ver/1276/uqast-test/globals/modules/payment/tpl/_purchaseOperationLocal_confirmOperation.tpl
+END
+_payment_viewCartProducts.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iqast/!svn/ver/1276/uqast-test/globals/modules/payment/tpl/_payment_viewCartProducts.tpl
+END
+_purchaseOperationAuthnet_confirmPaymentSystemOperation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/iqast/!svn/ver/1364/uqast-test/globals/modules/payment/tpl/_purchaseOperationAuthnet_confirmPaymentSystemOperation.tpl
+END
+_initPaymentSystemOperation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iqast/!svn/ver/1420/uqast-test/globals/modules/payment/tpl/_initPaymentSystemOperation.tpl
+END
+_purchaseOperationLocal_confirmPaymentSystemOperation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/iqast/!svn/ver/1276/uqast-test/globals/modules/payment/tpl/_purchaseOperationLocal_confirmPaymentSystemOperation.tpl
+END
+_payment_testPage.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iqast/!svn/ver/1276/uqast-test/globals/modules/payment/tpl/_payment_testPage.tpl
+END
+_chargeOperationAuthnet_initPaymentSystemOperation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/iqast/!svn/ver/1364/uqast-test/globals/modules/payment/tpl/_chargeOperationAuthnet_initPaymentSystemOperation.tpl
+END
+_payment_chargeInputAmount.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iqast/!svn/ver/1364/uqast-test/globals/modules/payment/tpl/_payment_chargeInputAmount.tpl
+END
+_payment_purchaseChoosePaymentSystem.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/iqast/!svn/ver/1276/uqast-test/globals/modules/payment/tpl/_payment_purchaseChoosePaymentSystem.tpl
+END
+_purchaseOperationAuthnet_initPaymentSystemOperation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/iqast/!svn/ver/1364/uqast-test/globals/modules/payment/tpl/_purchaseOperationAuthnet_initPaymentSystemOperation.tpl
+END
