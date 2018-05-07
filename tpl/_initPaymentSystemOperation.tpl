@@ -1,6 +1,3 @@
-<!--<script src="{$sMainSiteUrl}js/jquery-1.2.3.pack.js" type="text/javascript"></script>
-<script src="{$sMainSiteUrl}js/jquery.validate.js" type="text/javascript"></script>
-<script src="{$sMainSiteUrl}js/functions.js" type="text/javascript"></script>      -->
 <script src="{$sMainSiteUrl}js/payment.js" type="text/javascript"></script>      
 
 {literal} 
@@ -8,10 +5,6 @@
 .shipping{display:none;}
 </style>
 {/literal}                                                                        
-
-<!--<link type="text/css" href="{$sImagesUrl}/iQast_payment_style.css" rel="stylesheet">  -->
-
-
 
 <div class="wrapper">
     <!-- <img src="{$sImagesUrl}/00_logo.png" alt="" width="189" height="48" class="logo" /> -->
@@ -738,8 +731,6 @@
         rules: {
             x_card_num: {
                 rangelength: [15,16]
-                //,
-                //remote: ("{/literal}{$sMainSiteUrl}{literal}index.php?s=check_card")          
             },
             x_card_code: {
                 rangelength: [3,4]

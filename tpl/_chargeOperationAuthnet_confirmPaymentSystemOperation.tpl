@@ -1,5 +1,4 @@
 <div class="wrapper">
-    <!-- <img src="{$sImagesUrl}/00_logo.png" alt="" width="189" height="48" class="logo" /> -->
     <div id="header">
         <div class="logo">
             <a href="/"><img border="0" alt="" src="{$sImagesUrl}/00_logo.png" width="189" height="48" /></a>

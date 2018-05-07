@@ -20,11 +20,6 @@
 <br />
 <table id="products_list"></table> 
 <div id="pager"></div> 
-
-
-
-
-      
 {literal}
 <script>
     jQuery(document).ready(function(){   
